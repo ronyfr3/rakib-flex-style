@@ -11,12 +11,11 @@ Run `npm install rakib-flex-style`
 Use:
 
 ```
+//functional component
 import FlexStyle from "rakib-flex-style";
-
 const fn=()=>{
 return(
 <FlexStyle row center className="YOUR OWN CLASSNAME">
-
    <p>TOTAL POINTS</p>
    <p>480</p>
 </FlexStyle>
@@ -33,6 +32,6 @@ justify-content: space-between || space-around || space-evenly || center(Default
 flex-wrap: wrap || nowrap(Default)
 ```
 
-## It's very simple.Isn't it?
+# It's very simple.Isn't it?
 
-## Pray for me & support my work!
+# Pray for me & support my work!

@@ -11,7 +11,7 @@ Run `npm install rakib-flex-style`
 Use:
 
 ```
-//functional component
+
 import FlexStyle from "rakib-flex-style";
 const fn=()=>{
 return(
@@ -25,13 +25,17 @@ export default fn;
 
 ## Props
 
-```
+```diff
 flex-direction: row(Default) || column
 align-items: center || flex-start(Default) || flex-end
 justify-content: space-between || space-around || space-evenly || center(Default)
 flex-wrap: wrap || nowrap(Default)
 ```
 
-# It's very simple.Isn't it?
+## Author
 
-# Pray for me & support my work!
+![CHEESE!](rony.png)
+
+```diff
+Pray for me & support my work!
+```

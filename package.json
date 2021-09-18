@@ -1,9 +1,8 @@
 {
   "name": "rakib-flex-style",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "simple flexbox style",
   "keywords": [
-    "Author: Abdur Rakib Rony",
     "Flexbox Guide",
     "Npm Package"
   ],

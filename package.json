@@ -1,0 +1,22 @@
+{
+  "name": "rakib-flex-style",
+  "version": "1.0.0",
+  "description": "simple flexbox style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronyfr3/rakib-flex-style.git"
+  },
+  "author": "Abdur Rakib Rony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronyfr3/rakib-flex-style/issues"
+  },
+  "homepage": "https://github.com/ronyfr3/rakib-flex-style#readme",
+  "dependencies": {
+    "styled-components": "^5.3.1"
+  }
+}
